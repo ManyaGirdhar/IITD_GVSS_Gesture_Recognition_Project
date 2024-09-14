@@ -2,7 +2,7 @@
 This project implements a gesture recognition system using a Convolutional Neural Network (CNN) to classify hand gestures: open palm, fist, and thumbs-up for both left and right hands.
 
 Dataset
-(File video_frame.ipynb used for dataset extraction from videos)
+(File video_frame.ipynb used for dataset extraction from videos)\n
 Creation: Videos recorded and frames extracted (1500 images total).
 Split: 900 images for training, 600 for testing.
 
